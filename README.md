@@ -1,5 +1,5 @@
 # CSCI-105
 CSCI 105: Intro to Computer Science
 
-Fall 2023 programs
+A collection of Fall 2023 semester programs and games
 
